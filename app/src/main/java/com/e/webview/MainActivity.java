@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         btn_sql= findViewById(R.id.btn_sql);
         btn_search=findViewById(R.id.btn_search);
 
-        webView= findViewById(R.id.myWebView);
+        webView= findViewById(R.id.WebView);
         progressBar=findViewById(R.id.progressBar);
         editText=findViewById(R.id.et_url);
 
